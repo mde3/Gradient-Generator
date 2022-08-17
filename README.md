@@ -7,7 +7,7 @@
  
   <h2 align="center">A Random Gradient Generator</h2>
 
-  <a href="https://gradi-gen.netlify.app/" target="_blank"><strong>➥ Live Demo</strong></a>
+  <a href="https://gradi-gen.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
